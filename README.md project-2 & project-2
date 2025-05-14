@@ -9,3 +9,4 @@ E-commerce Website is a backend-driven web application developed using Java Spri
 It provides RESTful APIs to support core e-commerce functionalities such as product listing, user authentication, shopping cart management, order placement, and payment handling.
 The backend is built using Spring MVC, Spring Security, and Spring Data JPA, with PostgreSQL as the database.
 It follows a layered architecture (Controller, Service, Repository) and is designed to integrate with frontend frameworks like React or Angular.
+"C:\Users\Likitha adabala\OneDrive\Desktop\Student.rar"
