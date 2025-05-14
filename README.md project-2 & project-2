@@ -1,0 +1,11 @@
+                            STUDENT MANAGEMENT SYSTEM
+
+Student Management System is a backend application developed using Java Spring Boot that provides RESTful APIs to manage student data.
+It allows operations like adding, updating, viewing, and deleting student records stored in a PostgreSQL database.
+The project follows a layered architecture using Spring MVC, Spring Data JPA, and is structured for easy integration with a frontend like React.
+
+                           E-COMMERCE WEBSITE
+E-commerce Website is a backend-driven web application developed using Java Spring Boot.
+It provides RESTful APIs to support core e-commerce functionalities such as product listing, user authentication, shopping cart management, order placement, and payment handling.
+The backend is built using Spring MVC, Spring Security, and Spring Data JPA, with PostgreSQL as the database.
+It follows a layered architecture (Controller, Service, Repository) and is designed to integrate with frontend frameworks like React or Angular.
